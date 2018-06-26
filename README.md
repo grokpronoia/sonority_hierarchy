@@ -1,1 +1,1 @@
-# kmeans-clustering-prondict
+# Sonority hierarchy ranking of words
